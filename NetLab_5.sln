@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryFacultatives", "ClassLibraryFacultatives\ClassLibraryFacultatives.csproj", "{1F137C32-E2DF-4E69-9A9B-7C114F48BB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetLab_5", "NetLab_5\NetLab_5.csproj", "{48EFCD8F-AE41-48CE-B6C3-132F8EF095BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F137C32-E2DF-4E69-9A9B-7C114F48BB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F137C32-E2DF-4E69-9A9B-7C114F48BB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F137C32-E2DF-4E69-9A9B-7C114F48BB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F137C32-E2DF-4E69-9A9B-7C114F48BB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EFCD8F-AE41-48CE-B6C3-132F8EF095BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EFCD8F-AE41-48CE-B6C3-132F8EF095BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EFCD8F-AE41-48CE-B6C3-132F8EF095BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EFCD8F-AE41-48CE-B6C3-132F8EF095BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8FE234-E971-42F9-813B-6DCAA8042A5D}
+	EndGlobalSection
+EndGlobal
